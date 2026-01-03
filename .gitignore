@@ -5,6 +5,7 @@ backend/target/
 !**/src/test/**/target/
 data
 backend/data
+target
 
 ### STS ###
 .apt_generated
